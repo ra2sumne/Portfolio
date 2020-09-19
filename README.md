@@ -8,9 +8,9 @@ My name is Rawlric Sumner and I'm currently a student in the Columbia FinTech pr
 
 ### Table of Contents
 
-[code](https://github.com/ra2sumne/Portfolio/code)
-[data](https://github.com/ra2sumne/Portfolio/data)
-[images](https://github.com/ra2sumne/Portfolio/images)
-[references](https://github.com/ra2sumne/Portfolio/references)
+[code](https://github.com/ra2sumne/Portfolio/tree/master/code)
+[data](https://github.com/ra2sumne/Portfolio/tree/master/data)
+[images](https://github.com/ra2sumne/Portfolio/tree/master/images)
+[references](https://github.com/ra2sumne/Portfolio/tree/masterreferences)
 
 
